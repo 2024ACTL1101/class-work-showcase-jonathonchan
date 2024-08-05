@@ -182,9 +182,4 @@ lower_bound <- expected_return_amd - z_value * annual_sf
 upper_bound <- expected_return_amd + z_value * annual_sf
 
 cat("Therefore the prediction interval is [",lower_bound,"%,", upper_bound,"%].")
-
-**Answer:**
-
-```r
-#fill the code
 ```
